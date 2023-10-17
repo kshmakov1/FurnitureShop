@@ -1,0 +1,28 @@
+.mainSearch{
+    margin:10em;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.search-form{
+    border-radius: 1em;
+    background-color:beige;
+    padding:4em;
+
+}
+
+.search-input{
+    margin: 1em;
+    padding:0.5em;
+}
+
+.search-input         {
+    font-size:18px;
+    padding:10px 10px 10px 5px;
+    display:block;
+    width:300px;
+    border:none;
+    border-bottom:1px solid #757575;
+}
+input:focus     { outline:none; }

@@ -1,0 +1,53 @@
+.item-image{
+    height: 200px;
+}
+
+.nameShop{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+#itemList{
+    margin-top:2em;
+}
+.categoryList{
+    list-style:none;
+}
+.categories{
+    margin-top: 3em;
+    font-weight: 800;
+}
+
+.category:hover{
+    font-size: 2em;
+}
+.shoppingCartSection{
+    margin-top: 2em;
+}
+.shoppingCart{
+    margin-top: 1em;
+    min-height:30em;
+    background-color: lightgray;
+    border-radius: 2em;
+    min-width: 20em;
+}
+.item-image-small{
+    max-height:5em;
+}
+.button-52{
+    margin-top:1em;
+    float:right;
+}
+
+.individual-item-cart{
+    padding-top: 1em;
+    margin-left: 1em;
+}
+
+.mark-down{
+    text-decoration: line-through;
+}
+
+.sale-price{
+    color: red
+}

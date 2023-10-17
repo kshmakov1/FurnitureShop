@@ -1,0 +1,27 @@
+.flex-container {
+    display: flex;
+    justify-content: center;
+}
+
+.flexbox-item {
+    width: 17%;
+    margin: 10px;
+    font-weight: bold;
+}
+
+.info {
+    color: black;
+    line-height: 1.6 !important;
+    font-weight: normal;
+}
+
+.profile-logo {
+    width:30%;
+    background-color:white;
+    border-radius: 25px;
+}
+
+.logo-img {
+    width:120px;
+    padding: 0% !important;
+}

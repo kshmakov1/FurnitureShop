@@ -1,0 +1,64 @@
+#main {
+    margin-left: 10px;
+}
+
+#address {
+    display: inline;
+}
+#stores {
+    margin-left: 5px;
+}
+.output {
+    text-align: center;
+}
+
+.times {
+    margin-left: 5px;
+}
+
+.dates {
+    margin-left: 5px;
+}
+
+#map {
+    height: 550px;
+    width: 1200px;
+    margin-top: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    display: none;
+}
+
+#orderButtonContainer {
+    margin-left: 5px;
+    display: none;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    border-width: 1px;
+    border-style: solid;
+}
+
+.orderMessage {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-size: 24px;
+}
+
+.delivery_message_noOrder {
+    color: red;
+    font-weight: 900;
+}
+
+.delivery_message_order {
+    color: rgb(17, 167, 17);
+    font-weight: bolder;
+}
+
+#checkRoute {
+    display: inline;
+    margin-left: 10px;
+}

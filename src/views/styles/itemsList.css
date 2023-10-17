@@ -1,0 +1,12 @@
+.item-image{
+    height: 200px;
+}
+
+.title{
+    padding-left: 3em;
+}
+.mainList{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}

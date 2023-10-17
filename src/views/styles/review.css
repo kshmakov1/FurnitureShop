@@ -1,0 +1,32 @@
+/* review.css */
+.item-list {
+  margin-top: 20px;
+}
+
+.item-list ul {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 0;
+  padding: 0;
+}
+
+.item-list li {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin: 10px;
+  padding: 10px;
+  text-align: center;
+  width: 200px;
+}
+
+.item-list li:hover {
+  background-color: #f1f1f1;
+}
+
+.item-list li img {
+  display: block;
+  margin: 10px auto;
+  max-width: 100%;
+}
